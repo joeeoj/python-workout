@@ -1,4 +1,4 @@
-from numeric_types.pig_latin import pig_latin
+from strings.pig_latin import pig_latin
 
 
 def test_vowel():
