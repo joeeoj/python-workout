@@ -20,7 +20,7 @@ Run tests with pytest
 - [x] 05 pig latin
 - [x] 06 pig latin sentence
 - [x] 07 ubbi dubbi
-- [ ] 08 sorting a string
+- [x] 08 sorting a string
 
 ## Lists and tuples
 
@@ -36,3 +36,13 @@ Run tests with pytest
 - [ ] 15 rainfall
 - [ ] 16 dictdiff
 - [ ] 17 how many different numbers?
+
+## Files
+
+- [ ] 18 final line
+- [ ] 19 /etc/passwd to dict
+- [ ] 20 word count
+- [ ] 21 longest word per file
+- [ ] 22 reading and writing csv
+- [ ] 23 json
+- [ ] 24 reverse lines
