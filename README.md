@@ -26,9 +26,9 @@ Run tests with pytest
 
 - [x] 09 first last
 - [x] 10 summing anything
-- [ ] 11 alphabetizing names
-- [ ] 12 word with most repeated letters
-- [ ] 13 priting tuple records
+- [x] 11 alphabetizing names
+- [x] 12 word with most repeated letters
+- [x] 13 priting tuple records
 
 ## Dictionaries and sets
 
