@@ -24,8 +24,8 @@ Run tests with pytest
 
 ## Lists and tuples
 
-- [ ] 09 first last
-- [ ] 10 summing anything
+- [x] 09 first last
+- [x] 10 summing anything
 - [ ] 11 alphabetizing names
 - [ ] 12 word with most repeated letters
 - [ ] 13 priting tuple records
