@@ -8,21 +8,21 @@ Code for [Python Workout](https://www.manning.com/books/python-workout) book
 
 Run tests with pytest
 
-## Numeric types
+## Numeric types (8%)
 
 - [x] 01 guessing game
 - [x] 02 summing numbers
 - [x] 03 run timing
 - [x] 04 hexadecimal
 
-## Strings
+## Strings (16%)
 
 - [x] 05 pig latin
 - [x] 06 pig latin sentence
 - [x] 07 ubbi dubbi
 - [x] 08 sorting a string
 
-## Lists and tuples
+## Lists and tuples (26%)
 
 - [x] 09 first last
 - [x] 10 summing anything
@@ -30,14 +30,14 @@ Run tests with pytest
 - [x] 12 word with most repeated letters
 - [x] 13 priting tuple records
 
-## Dictionaries and sets
+## Dictionaries and sets (34%)
 
-- [ ] 14 restaurant
+- [x] 14 restaurant
 - [ ] 15 rainfall
 - [ ] 16 dictdiff
 - [ ] 17 how many different numbers?
 
-## Files
+## Files (48%)
 
 - [ ] 18 final line
 - [ ] 19 /etc/passwd to dict
@@ -46,3 +46,45 @@ Run tests with pytest
 - [ ] 22 reading and writing csv
 - [ ] 23 json
 - [ ] 24 reverse lines
+
+## Functions (54%)
+
+- [ ] 25 xml generator
+- [ ] 26 prefix notation calculator
+- [ ] 27 password generator
+
+## Functional programming with comprehension (70%)
+
+- [ ] 28 join numbers
+- [ ] 29 add numbers
+- [ ] 30 flatten a list
+- [ ] 31 pig latin translation of a file
+- [ ] 32 flip a dict
+- [ ] 33 transform values
+- [ ] 34 supervocalic words
+- [ ] 35a gematria part 1
+- [ ] 35b gematria part 2
+
+## Modules and packages (74%)
+
+- [ ] 36 sales tax
+- [ ] 37 menu
+
+## Objects (90%)
+
+- [ ] 38 ice cream scoop
+- [ ] 39 ice cream bowl
+- [ ] 40 bowl limits
+- [ ] 41 a bigger bowl
+- [ ] 42 flexible dict
+- [ ] 43 animals
+- [ ] 44 cages
+- [ ] 45 zoo
+
+## Iterators and generators (100%)
+
+- [ ] 46 my enumerate
+- [ ] 47 circle
+- [ ] 48 all lines, all files
+- [ ] 49 elapsed since
+- [ ] 50 my chain

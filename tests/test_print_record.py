@@ -19,8 +19,6 @@ def test_example(capfd):
     out, err = capfd.readouterr()
     assert out == ans
 
-
-
 def test_different_example(capfd):
     people = [
         ('Michael', 'Jordan', 23),
