@@ -14,6 +14,3 @@ def test_list():
 def test_tuple():
     assert firstlast(('one', 'two', 'three', 'four')) == ('one', 'four')
     assert isinstance(firstlast(('one', 'four')), tuple)
-
-def test_set():
-    assert firstlast(set([1, 2, 3])) is None
