@@ -33,7 +33,7 @@ Run tests with pytest
 ## Dictionaries and sets (34%)
 
 - [x] 14 restaurant
-- [ ] 15 rainfall
+- [x] 15 rainfall
 - [ ] 16 dictdiff
 - [ ] 17 how many different numbers?
 
