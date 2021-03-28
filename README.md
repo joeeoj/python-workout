@@ -35,11 +35,11 @@ Run tests with pytest
 - [x] 14 restaurant
 - [x] 15 rainfall
 - [x] 16 dictdiff
-- [ ] 17 how many different numbers?
+- [x] 17 how many different numbers?
 
 ## Files (48%)
 
-- [ ] 18 final line
+- [x] 18 final line
 - [ ] 19 /etc/passwd to dict
 - [ ] 20 word count
 - [ ] 21 longest word per file
