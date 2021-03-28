@@ -34,7 +34,7 @@ Run tests with pytest
 
 - [x] 14 restaurant
 - [x] 15 rainfall
-- [ ] 16 dictdiff
+- [x] 16 dictdiff
 - [ ] 17 how many different numbers?
 
 ## Files (48%)
