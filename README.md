@@ -40,7 +40,7 @@ Run tests with pytest
 ## Files (48%)
 
 - [x] 18 final line
-- [ ] 19 /etc/passwd to dict
+- [x] 19 /etc/passwd to dict
 - [ ] 20 word count
 - [ ] 21 longest word per file
 - [ ] 22 reading and writing csv
