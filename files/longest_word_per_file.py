@@ -1,7 +1,6 @@
 import os
 
 
-
 def cleanup_word(word: str) -> str:
     """Remove extraneous tokens from word"""
     for token in [',', '.', '.', ')', '"']:
@@ -18,7 +17,7 @@ def find_longest_word(fname: str) -> str:
                 # skip hyphenated words and repeated characters, like a horizontal line
                 if '-' in word or '—' in word or '&mdash' in word or len(set(word)) == 1:
                     continue
-                # add filter for repeated characters, like horizontal line
+                # parse word to remove tokens
                 parsed_word = cleanup_word(word)
                 if len(parsed_word) > len(longest_word):
                     longest_word = parsed_word
