@@ -43,7 +43,7 @@ Run tests with pytest
 - [x] 19 /etc/passwd to dict
 - [x] 20 word count
 - [x] 21 longest word per file
-- [ ] 22 reading and writing csv
+- [x] 22 reading and writing csv
 - [ ] 23 json
 - [ ] 24 reverse lines
 
