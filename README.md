@@ -45,7 +45,7 @@ Run tests with pytest
 - [x] 21 longest word per file
 - [x] 22 reading and writing csv
 - [x] 23 json
-- [ ] 24 reverse lines
+- [x] 24 reverse lines
 
 ## Functions (54%)
 
