@@ -49,7 +49,7 @@ Run tests with pytest
 
 ## Functions (54%)
 
-- [ ] 25 xml generator
+- [x] 25 xml generator
 - [ ] 26 prefix notation calculator
 - [ ] 27 password generator
 
