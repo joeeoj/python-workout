@@ -50,7 +50,7 @@ Run tests with pytest
 ## Functions (54%)
 
 - [x] 25 xml generator
-- [ ] 26 prefix notation calculator
+- [x] 26 prefix notation calculator
 - [ ] 27 password generator
 
 ## Functional programming with comprehension (70%)
