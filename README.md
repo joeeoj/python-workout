@@ -51,7 +51,7 @@ Run tests with pytest
 
 - [x] 25 xml generator
 - [x] 26 prefix notation calculator
-- [ ] 27 password generator
+- [x] 27 password generator
 
 ## Functional programming with comprehension (70%)
 
