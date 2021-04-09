@@ -3,7 +3,7 @@ def myxml(tag: str, text: str = '', **kwargs: str) -> str:
     The name-value pairs are attributes"""
     if kwargs:
         template = f'<{tag} {{}}>{{}}</{tag}>'
-        attrs = ' '.join([f'{k}="{v}"' for k,v in kwargs.items()])
+        attrs = ' '.join([f'{k}="{v}"' for k, v in kwargs.items()])
         return template.format(attrs, text)
     else:
         template = f'<{tag}>{{}}</{tag}>'
