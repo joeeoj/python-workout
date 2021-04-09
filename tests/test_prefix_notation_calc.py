@@ -32,5 +32,4 @@ def test_exp():
     assert calc('** 2 2') == 4
 
 def test_invalid_op():
-    with pytest.raises(TypeError):
-        assert calc('-- 10 5')
+    assert calc('-- 10 5') is None
