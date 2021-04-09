@@ -1,6 +1,9 @@
+from collections import namedtuple
 import csv
 
-from . passwd_to_dict import Password
+
+Password = namedtuple('Password', ['username', 'password', 'uid', 'gid', 'unknown1', 'unknown2', 'unknown3',
+                                   'user_info', 'home_dir', 'shell_path'])
 
 
 def passwd_to_csv(fname: str, fout: str) -> None:

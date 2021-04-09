@@ -1,5 +1,5 @@
 import operator
-from typing import Union
+from typing import Optional, Union
 
 
 OPERATORS = {
@@ -13,6 +13,9 @@ OPERATORS = {
 }
 
 
-def calc(expression: str) -> Union[int, float]:
+def calc(expression: str) -> Optional[Union[int, float]]:
     op, a, b = expression.split()
-    return OPERATORS.get(op)(int(a), int(b))
+    func = OPERATORS.get(op)
+    if func is not None:
+        return func(int(a), int(b))
+    return None
