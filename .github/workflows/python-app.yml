@@ -34,3 +34,7 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: Check with mypy
+      run: |
+        # exclude test folder
+        mypy . --exclude tests
