@@ -56,7 +56,7 @@ Run tests with pytest
 ## Functional programming with comprehension (70%)
 
 - [x] 28 join numbers
-- [ ] 29 add numbers
+- [x] 29 add numbers
 - [ ] 30 flatten a list
 - [ ] 31 pig latin translation of a file
 - [ ] 32 flip a dict
