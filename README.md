@@ -59,7 +59,7 @@ Run tests with pytest
 - [x] 29 add numbers
 - [x] 30 flatten a list
 - [x] 31 pig latin translation of a file
-- [ ] 32 flip a dict
+- [x] 32 flip a dict
 - [ ] 33 transform values
 - [ ] 34 supervocalic words
 - [ ] 35a gematria part 1
