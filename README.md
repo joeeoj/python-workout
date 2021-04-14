@@ -60,7 +60,7 @@ Run tests with pytest
 - [x] 30 flatten a list
 - [x] 31 pig latin translation of a file
 - [x] 32 flip a dict
-- [ ] 33 transform values
+- [x] 33 transform values
 - [ ] 34 supervocalic words
 - [ ] 35a gematria part 1
 - [ ] 35b gematria part 2
