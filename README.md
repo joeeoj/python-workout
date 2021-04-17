@@ -62,8 +62,8 @@ Run tests with pytest
 - [x] 32 flip a dict
 - [x] 33 transform values
 - [x] 34 supervocalic words
-- [ ] 35a gematria part 1
-- [ ] 35b gematria part 2
+- [x] 35a gematria part 1
+- [x] 35b gematria part 2
 
 ## Modules and packages (74%)
 
