@@ -67,7 +67,7 @@ Run tests with pytest
 
 ## Modules and packages (74%)
 
-- [ ] 36 sales tax
+- [x] 36 sales tax
 - [ ] 37 menu
 
 ## Objects (90%)
