@@ -73,7 +73,7 @@ Run tests with pytest
 ## Objects (90%)
 
 - [x] 38 ice cream scoop
-- [ ] 39 ice cream bowl
+- [x] 39 ice cream bowl
 - [ ] 40 bowl limits
 - [ ] 41 a bigger bowl
 - [ ] 42 flexible dict
